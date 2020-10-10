@@ -2,6 +2,7 @@
 Projeto utilizando - Spring , Camel e Lombok
  - JAVA 11
  - Spring 2.3.0
+ - Instalar Puglin - Lombok
 
 # Configuração do projeto
  - Criar pasta no diretorio: C:\AgiBank\data
